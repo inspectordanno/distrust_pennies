@@ -1,4 +1,4 @@
-## http://distrustpenni.es
+## http://pennies.wtf
 
 Eliminating the American penny, explained with data visualization.
 Created as part of a master's thesis in information design and visualization at Northeastern University in 2019.
