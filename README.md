@@ -1,4 +1,4 @@
-## http://penny.fyi
+## https://penny.fyi
 ### Not currently optimized for mobile, but I'm working on it!
 
 Eliminating the American penny, explained with data visualization.
